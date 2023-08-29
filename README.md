@@ -23,6 +23,7 @@
 - You can search for a game using searchbar.
 - Each game is a dedicated card. On the card, You can see the rate of the game, full name, platforms that are avaliable (icons) and type.
 - Left panel is the Genres. Click on the genre that suits You and find games.
+- App contains both **light** and **dark** mode!
 
 #### Technology used:
 - HTML, CSS, JS
