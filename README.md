@@ -26,6 +26,7 @@
 
 #### Technology used:
 - HTML, CSS, JS
+- Typescript
 - **Framework:** Bootstrap
 - **Framework:** React
 - Vite
@@ -35,13 +36,13 @@
 
 ## What I Learned
 
-- Using most important **SEO tags** in modern websites.
-- Using SCSS in a bigger project with many classes.
-- Creating, importing and using Mixins.
-- Creating hero-images and sliders of images.
-- Creating semi-advanced animations to the cards, buttons and navigation popup.
-- Destructuring website to the small components.
-- Creating nav button that changes its color depending on the background on which it is located.
+- Using **React** + **Typescript** in one app.
+- Using **Vite** and benefits doing it compared to CRA.
+- Working with **API**, use promises.
+- React most usefull hooks in pratcise.
+- Sorting content by the user choices.
+- Routing in React.
+- Connecting React app to the backend.
 
 <hr/>
 
