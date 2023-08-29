@@ -29,7 +29,7 @@
 - **Framework:** Bootstrap
 - **Framework:** React
 - Vite
-- API (from [](https://rawg.io/apidocs))
+- API (from https://rawg.io/apidocs)
 
 <hr/>
 
