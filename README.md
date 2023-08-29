@@ -39,10 +39,12 @@
 - Using **React** + **Typescript** in one app.
 - Using **Vite** and benefits doing it compared to CRA.
 - Working with **API**, use promises.
+- Using interface in Typescript.
 - React most usefull hooks in pratcise.
 - Sorting content by the user choices.
 - Routing in React.
 - Connecting React app to the backend.
+- Creating placeholders while website is importing content from backend.
 
 <hr/>
 
